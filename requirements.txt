@@ -2,7 +2,7 @@ scikit-learn
 pandas
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 tensorflow
 keras
 seaborn
