@@ -17,6 +17,7 @@ The system uses a Convolutional Neural Network (CNN) to analyze fingerprint imag
 - `fingerprint_liveness.ipynb`: Script for training the fingerprint classification model
 - `app.py`: Streamlit application for deploying the model on a website
 - `fingerprint_model.h5`: Saved trained model (not tracked by Git, needs to be generated)
+- `requirements.txt`: Requirements for running model and app
 
 ## Usage
 
