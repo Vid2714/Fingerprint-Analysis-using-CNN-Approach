@@ -1,8 +1,9 @@
 scikit-learn
 pandas
-numpy
 matplotlib
-opencv-python-headless
-tensorflow
+numpy==1.22.0
+tensorflow==2.10.0
+opencv-python-headless==4.5.5.64
+pillow
 keras
 seaborn
