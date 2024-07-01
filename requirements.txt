@@ -3,7 +3,7 @@ pandas
 matplotlib
 numpy>=1.22.0
 tensorflow>=2.12.0
-opencv-python-headless==4.5.5.64
+opencv-python
 pillow
 streamlit
 keras
