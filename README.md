@@ -20,6 +20,34 @@ The system uses a Convolutional Neural Network (CNN) to analyze fingerprint imag
 
 ## Usage
 
+### Cloning the Repository
+
+To get a local copy of this project up and running, follow these simple steps:
+
+1. Ensure you have Git installed on your machine.
+
+2. Open your terminal or command prompt.
+
+3. Navigate to the directory where you want to clone the repository.
+
+4. Run the following command:
+
+   ```
+   git clone https://github.com/Vid2714/Fingerprint-Analysis-using-CNN-Approach.git
+   ```
+5. Once the cloning is complete, navigate into the project directory:
+   ```
+   cd Fingerprint-Analysis-using-CNN-Approach
+   ```
+
+6. You now have a local copy of the project and can proceed with the installation and usage instructions provided above.
+
+   Note: If you're using GitHub's CLI tool, you can alternatively clone the repository with:
+   ```
+   gh repo clone your-username/fingerprint-authentication
+   ```
+Star the repository if you find it useful!
+
 ### Training the Model
 
 1. Ensure you have the fingerprint dataset in the correct directory.
