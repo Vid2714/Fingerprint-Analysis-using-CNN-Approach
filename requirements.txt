@@ -2,8 +2,7 @@ scikit-learn
 pandas
 numpy
 matplotlib
-cv2
+opencv-python
 tensorflow
 keras
-os
 seaborn
